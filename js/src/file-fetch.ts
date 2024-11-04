@@ -1,7 +1,7 @@
 import { GIT_COMMIT_HASH } from "./config";
 import { FileFetch } from "./types";
 
-const DEFAULT_REMOTE_BASE_URL = `https://github.com/web3vx/zk-tls-circom-symmetric/tree/${GIT_COMMIT_HASH}/resources/`;
+const DEFAULT_REMOTE_BASE_URL = `https://github.com/web3vx/zk-tls-circom-symmetric/raw/resources/`;
 const DEFAULT_BASE_PATH = "../resources";
 
 export type MakeRemoteFileFetchOpts = {
