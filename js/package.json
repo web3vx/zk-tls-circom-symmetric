@@ -1,5 +1,5 @@
 {
-  "name": "web3vx/zk-tls-circom-symmetric",
+  "name": "@web3vx/zk-tls-circom-symmetric",
   "version": "2.0.5",
   "description": "JS Wrappers for Various ZK Snark Circuits",
   "main": "lib/index.js",
